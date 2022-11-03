@@ -1,0 +1,1 @@
+// This directory will hold "All the classes related to the Colors, Styles & Strings files".
